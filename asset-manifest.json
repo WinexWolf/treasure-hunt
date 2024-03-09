@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/treasure-hunt/static/css/main.842fdb2d.css",
+    "main.js": "/treasure-hunt/static/js/main.a6cd1af6.js",
+    "static/js/453.b86844ca.chunk.js": "/treasure-hunt/static/js/453.b86844ca.chunk.js",
+    "static/media/Gemini_Generated_Image (2).jpg": "/treasure-hunt/static/media/Gemini_Generated_Image (2).cce5014123cd38701646.jpg",
+    "static/media/Gemini_Generated_Image (6).jpg": "/treasure-hunt/static/media/Gemini_Generated_Image (6).8ed8c13f443e14626909.jpg",
+    "static/media/Gemini_Generated_Image (12).jpg": "/treasure-hunt/static/media/Gemini_Generated_Image (12).f4334db36b9ae2a3b0e6.jpg",
+    "static/media/Gemini_Generated_Image (11).jpg": "/treasure-hunt/static/media/Gemini_Generated_Image (11).a7759553456ad729b4a0.jpg",
+    "static/media/Gemini_Generated_Image (4).jpg": "/treasure-hunt/static/media/Gemini_Generated_Image (4).3a5a786c253761bc990f.jpg",
+    "static/media/Gemini_Generated_Image (3).jpg": "/treasure-hunt/static/media/Gemini_Generated_Image (3).700e305ca7d2fb4c998a.jpg",
+    "static/media/Gemini_Generated_Image (8).jpg": "/treasure-hunt/static/media/Gemini_Generated_Image (8).491755ee3658956fb205.jpg",
+    "static/media/Gemini_Generated_Image (9).jpg": "/treasure-hunt/static/media/Gemini_Generated_Image (9).f64ad2ca7e3accc9747d.jpg",
+    "static/media/Gemini_Generated_Image (5).jpg": "/treasure-hunt/static/media/Gemini_Generated_Image (5).36754a1c052f53d07e33.jpg",
+    "static/media/Gemini_Generated_Image (1).jpg": "/treasure-hunt/static/media/Gemini_Generated_Image (1).5bfbc70f3d0fda7e99ce.jpg",
+    "static/media/Gemini_Generated_Image (13).jpg": "/treasure-hunt/static/media/Gemini_Generated_Image (13).ce9e2f090b6979aaa4c4.jpg",
+    "static/media/Gemini_Generated_Image.jpg": "/treasure-hunt/static/media/Gemini_Generated_Image.e1b379e0052bda9fa810.jpg",
+    "static/media/Gemini_Generated_Image (7).jpg": "/treasure-hunt/static/media/Gemini_Generated_Image (7).a58e9b3bd9fac16f1903.jpg",
+    "static/media/Gemini_Generated_Image (10).jpg": "/treasure-hunt/static/media/Gemini_Generated_Image (10).045fedb6d889f767f11f.jpg",
+    "static/media/Dune_Rise.ttf": "/treasure-hunt/static/media/Dune_Rise.f4a1668b8de93e7d9011.ttf",
+    "static/media/penguin.svg": "/treasure-hunt/static/media/penguin.1d144790211717624f3acb63a8bf01d0.svg",
+    "index.html": "/treasure-hunt/index.html",
+    "main.842fdb2d.css.map": "/treasure-hunt/static/css/main.842fdb2d.css.map",
+    "main.a6cd1af6.js.map": "/treasure-hunt/static/js/main.a6cd1af6.js.map",
+    "453.b86844ca.chunk.js.map": "/treasure-hunt/static/js/453.b86844ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.842fdb2d.css",
+    "static/js/main.a6cd1af6.js"
+  ]
+}
