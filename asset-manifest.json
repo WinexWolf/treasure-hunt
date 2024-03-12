@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/treasure-hunt/static/css/main.842fdb2d.css",
-    "main.js": "/treasure-hunt/static/js/main.a6cd1af6.js",
+    "main.css": "/treasure-hunt/static/css/main.fe12529b.css",
+    "main.js": "/treasure-hunt/static/js/main.529e9b56.js",
     "static/js/453.b86844ca.chunk.js": "/treasure-hunt/static/js/453.b86844ca.chunk.js",
     "static/media/Gemini_Generated_Image (2).jpg": "/treasure-hunt/static/media/Gemini_Generated_Image (2).cce5014123cd38701646.jpg",
     "static/media/Gemini_Generated_Image (6).jpg": "/treasure-hunt/static/media/Gemini_Generated_Image (6).8ed8c13f443e14626909.jpg",
@@ -20,12 +20,12 @@
     "static/media/Dune_Rise.ttf": "/treasure-hunt/static/media/Dune_Rise.f4a1668b8de93e7d9011.ttf",
     "static/media/penguin.svg": "/treasure-hunt/static/media/penguin.1d144790211717624f3acb63a8bf01d0.svg",
     "index.html": "/treasure-hunt/index.html",
-    "main.842fdb2d.css.map": "/treasure-hunt/static/css/main.842fdb2d.css.map",
-    "main.a6cd1af6.js.map": "/treasure-hunt/static/js/main.a6cd1af6.js.map",
+    "main.fe12529b.css.map": "/treasure-hunt/static/css/main.fe12529b.css.map",
+    "main.529e9b56.js.map": "/treasure-hunt/static/js/main.529e9b56.js.map",
     "453.b86844ca.chunk.js.map": "/treasure-hunt/static/js/453.b86844ca.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.842fdb2d.css",
-    "static/js/main.a6cd1af6.js"
+    "static/css/main.fe12529b.css",
+    "static/js/main.529e9b56.js"
   ]
 }
